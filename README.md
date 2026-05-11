@@ -449,43 +449,6 @@ Install the correct CUDA-enabled PyTorch build from [pytorch.org](https://pytorc
 
 ---
 
-## 🗺 Roadmap
-
-- [ ] **Mobile App** — React Native (iOS + Android)
-- [ ] **Electron Desktop App** — Offline-capable native client
-- [ ] **More Languages** — Expand UI to Marathi, Bengali, Telugu
-- [ ] **Redis Caching** — Response caching for common legal queries
-- [ ] **RabbitMQ** — Async document processing queue
-- [ ] **Lawyer Connect** — Match users with verified legal professionals
-- [ ] **Case Tracker** — Track ongoing legal matters with reminders
-- [ ] **Offline Mode** — Basic guidance without internet access
-
-<br/>
-
----
-
-## 🤝 Contributing
-
-Contributions are warmly welcome. Here's how to get started:
-
-```bash
-# 1. Fork the repository
-# 2. Create your feature branch
-git checkout -b feat/your-feature-name
-
-# 3. Commit your changes
-git commit -m "feat: add your feature"
-
-# 4. Push and open a PR
-git push origin feat/your-feature-name
-```
-
-Please follow the existing code style and include tests where applicable. For major changes, open an issue first to discuss the approach.
-
-<br/>
-
----
-
 ## 🙏 Acknowledgments
 
 | Project | Role |
